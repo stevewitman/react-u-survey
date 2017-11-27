@@ -99,3 +99,8 @@ box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;
   font-size: 30px;
   padding: 20px;
 }
+
+.answer {
+  align: left;
+
+}
